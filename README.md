@@ -1,3 +1,4 @@
+
 🏋️‍♂️ Weight Management System
 
 A personalized fitness and reminder web app built with PHP, MySQL, HTML, CSS, and JavaScript.
@@ -58,3 +59,6 @@ The system sends an email at the set time with your personalized message.
 
 Designed and developed as a modern academic-level PHP project with practical real-world features.
 Perfect for students, freelancers, or startups exploring health-tech web apps.
+=======
+# weight_management_system
+PHP + MySQL web app for managing fitness goals and automated workout reminders via email.
