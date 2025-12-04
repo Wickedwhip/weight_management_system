@@ -1,0 +1,143 @@
+Folder PATH listing
+Volume serial number is EC7A-2C49
+C:.
+³   index.php
+³   README.md
+³   structure.txt
+³   test.php
+³   test_mail.php
+³   
+ÃÄÄÄadmin
+³       admin_register.php
+³       dashboard.php
+³       index.php
+³       logout.php
+³       manage_admins.php
+³       manage_progress.php
+³       manage_remindes.php
+³       manage_users.php
+³       reset_admin.php
+³       
+ÃÄÄÄassets
+³   ÃÄÄÄcss
+³   ³       style.css
+³   ³       
+³   ÃÄÄÄimg
+³   ³       background.jpg
+³   ³       login_image.png
+³   ³       logo.jpg
+³   ³       sushil-ghimire-5UbIqV58CW8-unsplash.jpg
+³   ³       
+³   ÀÄÄÄjs
+³           script.js
+³           
+ÃÄÄÄconfig
+³       db.php
+³       
+ÃÄÄÄdatabase
+³       weight_management.sql
+³       
+ÃÄÄÄincludes
+³   ³   admin_footer.php
+³   ³   admin_header.php
+³   ³   footer.php
+³   ³   functions.php
+³   ³   header.php
+³   ³   mail_config.php
+³   ³   session.php
+³   ³   
+³   ÃÄÄÄPHPMailer
+³   ³       Exception.php
+³   ³       PHPMailer.php
+³   ³       SMTP.php
+³   ³       
+³   ÀÄÄÄPHPMailer-master
+³       ³   COMMITMENT
+³       ³   composer.json
+³       ³   get_oauth_token.php
+³       ³   LICENSE
+³       ³   README.md
+³       ³   SECURITY.md
+³       ³   SMTPUTF8.md
+³       ³   VERSION
+³       ³   
+³       ÃÄÄÄlanguage
+³       ³       phpmailer.lang-af.php
+³       ³       phpmailer.lang-ar.php
+³       ³       phpmailer.lang-as.php
+³       ³       phpmailer.lang-az.php
+³       ³       phpmailer.lang-ba.php
+³       ³       phpmailer.lang-be.php
+³       ³       phpmailer.lang-bg.php
+³       ³       phpmailer.lang-bn.php
+³       ³       phpmailer.lang-ca.php
+³       ³       phpmailer.lang-cs.php
+³       ³       phpmailer.lang-da.php
+³       ³       phpmailer.lang-de.php
+³       ³       phpmailer.lang-el.php
+³       ³       phpmailer.lang-eo.php
+³       ³       phpmailer.lang-es.php
+³       ³       phpmailer.lang-et.php
+³       ³       phpmailer.lang-fa.php
+³       ³       phpmailer.lang-fi.php
+³       ³       phpmailer.lang-fo.php
+³       ³       phpmailer.lang-fr.php
+³       ³       phpmailer.lang-gl.php
+³       ³       phpmailer.lang-he.php
+³       ³       phpmailer.lang-hi.php
+³       ³       phpmailer.lang-hr.php
+³       ³       phpmailer.lang-hu.php
+³       ³       phpmailer.lang-hy.php
+³       ³       phpmailer.lang-id.php
+³       ³       phpmailer.lang-it.php
+³       ³       phpmailer.lang-ja.php
+³       ³       phpmailer.lang-ka.php
+³       ³       phpmailer.lang-ko.php
+³       ³       phpmailer.lang-ku.php
+³       ³       phpmailer.lang-lt.php
+³       ³       phpmailer.lang-lv.php
+³       ³       phpmailer.lang-mg.php
+³       ³       phpmailer.lang-mn.php
+³       ³       phpmailer.lang-ms.php
+³       ³       phpmailer.lang-nb.php
+³       ³       phpmailer.lang-nl.php
+³       ³       phpmailer.lang-pl.php
+³       ³       phpmailer.lang-pt.php
+³       ³       phpmailer.lang-pt_br.php
+³       ³       phpmailer.lang-ro.php
+³       ³       phpmailer.lang-ru.php
+³       ³       phpmailer.lang-si.php
+³       ³       phpmailer.lang-sk.php
+³       ³       phpmailer.lang-sl.php
+³       ³       phpmailer.lang-sr.php
+³       ³       phpmailer.lang-sr_latn.php
+³       ³       phpmailer.lang-sv.php
+³       ³       phpmailer.lang-tl.php
+³       ³       phpmailer.lang-tr.php
+³       ³       phpmailer.lang-uk.php
+³       ³       phpmailer.lang-ur.php
+³       ³       phpmailer.lang-vi.php
+³       ³       phpmailer.lang-zh.php
+³       ³       phpmailer.lang-zh_cn.php
+³       ³       
+³       ÀÄÄÄsrc
+³               DSNConfigurator.php
+³               OAuth.php
+³               OAuthTokenProvider.php
+³               POP3.php
+³               
+ÃÄÄÄpages
+³       add_meal.php
+³       add_workout.php
+³       dashboard.php
+³       login.php
+³       logout.php
+³       progress.php
+³       register.php
+³       reminders.php
+³       
+ÃÄÄÄtasks
+³       send_reminders.bat
+³       send_reminders.php
+³       
+ÀÄÄÄvendor
